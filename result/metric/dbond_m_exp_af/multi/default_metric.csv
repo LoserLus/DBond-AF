@@ -1,0 +1,15 @@
+metric,value
+Loss,0.6134437918663025
+subset_acc,0.022482894361019135
+ex_acc,0.0
+ex_precision,0.0
+ex_recall,0.0
+ex_f1,0.0
+lab_acc_ma,0.5298142717445767
+lab_acc_mi,0.5298142717496077
+lab_precision_ma,0.0
+lab_precision_mi,0.0
+lab_recall_ma,0.0
+lab_recall_mi,0.0
+lab_f1_ma,0.0
+lab_f1_mi,0.0
